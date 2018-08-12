@@ -4,7 +4,7 @@ import Nav from './Nav';
 
 export const AuthContext = React.createContext(false);
 
-export default class ContextExample extends Component {
+export default class Example extends Component {
   constructor() {
     super();
     this.state = { isLoggedIn: false };
@@ -23,7 +23,7 @@ export default class ContextExample extends Component {
 
   render() {
     return (
-      <section>
+      <section style={{ marginBottom: '50px' }}>
         <h2>Context Example</h2>
         <p>Shows different value depending on context-handled log-in status</p>
 

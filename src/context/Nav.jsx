@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { AuthContext } from './ContextExample';
+import { AuthContext } from './Example';
 
 export default () => (
   <AuthContext.Consumer>
