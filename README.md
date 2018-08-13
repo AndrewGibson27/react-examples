@@ -7,6 +7,8 @@ To fire up the server: `yarn start`
 
 ## Examples provided
 + Context API
++ `getDerivedStateFromProps`
++ `componentDidCatch`
 
 ## Examples to come
 + New lifecycle methods, including `componentDidCatch`

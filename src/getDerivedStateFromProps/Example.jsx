@@ -18,7 +18,7 @@ export default class Example extends Component {
     return (
       <section style={{ marginBottom: '50px' }}>
         <h2>
-          <code>getDerivedStateFromProps example</code>
+          <code>getDerivedStateFromProps</code> example
         </h2>
         <p>
           The text is state of a child component that adapts to counter value of parent component sent as props.
