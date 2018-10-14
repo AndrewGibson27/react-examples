@@ -9,12 +9,12 @@ To fire up the server: `yarn start`
 + Context API
 + `getDerivedStateFromProps`
 + `componentDidCatch`
++ Portals
 
 ## Examples to come
-+ New lifecycle methods, including `componentDidCatch`
++ New lifecycle methods
 + Suspense/async rendering
 + Fragments
-+ Portals
 
 ## License
 MIT
