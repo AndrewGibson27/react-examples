@@ -6,6 +6,7 @@ import PortalsExample from './portals/Example';
 // will cause app to crash in development
 // add to tree and build for production to see demo
 import ComponentDidCatchExample from './componentDidCatch/Example';
+import HookExample from './hooks/Example';
 
 export default () => (
   <main>
@@ -13,5 +14,6 @@ export default () => (
     <ContextExample />
     <GetDerivedStateFromPropsExample />
     <PortalsExample />
+    <HookExample />
   </main>
 );

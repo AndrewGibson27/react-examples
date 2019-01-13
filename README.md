@@ -10,11 +10,11 @@ To fire up the server: `yarn start`
 + `getDerivedStateFromProps`
 + `componentDidCatch`
 + Portals
++ Hooks
 
 ## Examples to come
 + New lifecycle methods
 + Suspense/async rendering
-+ Fragments
 
 ## License
 MIT
