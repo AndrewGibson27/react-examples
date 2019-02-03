@@ -16,7 +16,6 @@ To fire up the server: `yarn start`
 
 ## Examples to come
 
-- `getSnapshotBeforeUpdate`
 - Suspense
 - Lazy
 
